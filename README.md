@@ -26,15 +26,16 @@
 
 ## Setup Instructions
 1. **Clone the repository:**
-  ```bash
-git clone https://github.com/bhavyashree19/OCR.git   cd OCR
+'''bash git clone https://github.com/bhavyashree19/OCR.gitcd OCR'''
 
-2. **Create a virtual environment**
+2. **Create a virtual environment:**
    python -m venv venv
    source venv/bin/activate
-3. **Install the required packages**
+   
+4. **Install the required packages**
     pip install -r requirements.txt
-4. **Install Tesseract-OCR**
+   
+6. **Install Tesseract-OCR**
     Download and install Tesseract from GitHub
 
 # Running the Application Locally
