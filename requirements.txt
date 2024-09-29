@@ -3,4 +3,6 @@ pytesseract
 Pillow          # For image handling
 opencv-python   # If you're using OpenCV for image processing
 numpy           # For numerical operations
-pandas          # For data handling
+pandas     
+requests
+
